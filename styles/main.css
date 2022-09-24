@@ -30,14 +30,13 @@ main {
 }
 
 iframe {
-    width: 267px;
-    height: 470px;
-    position: absolute;
-    top: 12.9%;
-    left: 7.2%;
+    width: 269px;
+    height: 471px;
+    position: relative;
+    top: 80px;
+    left: 22px;
 }
 
 #socialmedia {
-    position: ;
     background-color: aqua;
 }
