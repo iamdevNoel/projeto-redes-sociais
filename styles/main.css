@@ -38,5 +38,13 @@ iframe {
 }
 
 #socialmedia {
+    text-align: right;
     background-color: aqua;
+}
+
+button > a {
+    width: 50px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 15%;
 }
